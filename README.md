@@ -18,8 +18,8 @@ diff is the short list with the latest additions
 ### Usage
 **full list:**
 
->python3 alleFilme.py
+>python3 alle_Filme.py
 
 **short list:**
 
->python3 neueFilme.py
+>python3 neue_Filme.py
