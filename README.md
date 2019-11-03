@@ -1,6 +1,10 @@
 # MediathekViewList2sqlite
 download and convert MediathekView List to sqlite DB and CSV
 
+* *I only use the fields 'Theme' 'Title' and 'Url'* *
+
+(If you nedd more you can add it)
+
 ### Requirements
 - python 3
 - pandas
