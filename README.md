@@ -14,3 +14,12 @@ The scripts does the follwing:
 
 akt is the full list
 diff is the short list with the latest additions
+
+### Usage
+**full list:**
+
+>python3 alleFilme.py
+
+**short list:**
+
+>python3 neueFilme.py
