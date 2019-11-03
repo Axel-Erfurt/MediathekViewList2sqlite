@@ -1,5 +1,5 @@
 # MediathekViewList2sqlite
-download and convert MediathekView List to sqlite DB
+download and convert MediathekView List to sqlite DB and CSV
 
 ### Requirements
 - python 3
@@ -20,6 +20,14 @@ diff is the short list with the latest additions
 
 >python3 alle_Filme.py
 
+creates the files 
+- /tmp/alleFilme.csv
+- /tmp/alleFilme.sqlite
+
 **short list:**
 
 >python3 neue_Filme.py
+
+creates the files 
+- /tmp/neueFilme.csv
+- /tmp/neueFilme.sqlite
